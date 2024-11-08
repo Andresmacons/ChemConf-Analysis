@@ -19,6 +19,6 @@ Available for Jupyter Notebooks and command lines, including:
 If you use any ChemConf-Analysis, please include this citation:
 
 Additionally, please include the corresponding references for the following programs:
-- Chemcoord
-- 
--
+- Chemcoord: O. Weser, B. Hein-Janke, R. A. Mata, J. Comput. Chem. 2023, 44(5), 710. https://doi.org/10.1002/jcc.27029 
+- Pandas: The pandas development team. (2024). pandas-dev/pandas: Pandas (v2.2.3). Zenodo. https://doi.org/10.5281/zenodo.13819579
+- Numpy: Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). https://doi.org/10.1038/s41586-020-2649-2
