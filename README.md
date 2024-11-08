@@ -14,7 +14,7 @@ Available for Jupyter Notebooks and command lines, including:
 - Linux
 
 ## License
-ChemConf-Analysis is freely available under an MIT License
+ChemConf-Analysis is freely available under an [MIT]([https://choosealicense.com/licenses/mit/]) license
 
 ## Reference
 If you use any ChemConf-Analysis, please include this citation:
