@@ -7,7 +7,7 @@ Available for Jupyter Notebooks.
 
 - Get your .xyz file with multiple structures. Make sure the .xyz file saved the geometries in the proper format, including atom number and energy. This is crucial for line counting and slicing the document.
 - Stablish the desired RMSD threshold (by default 1 Å is choosen) and the particular geometrical constrains 
-- Run the script. It will create the required new folders: 
+- Run the script. It will create the required new folders (_conformers_ and _final_conformers_)
 - Once finishing, you will obtain the .xyz files for every "unique" conformer in the file.
 
 ## Requirements
