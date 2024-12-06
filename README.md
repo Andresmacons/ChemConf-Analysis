@@ -1,5 +1,4 @@
-![alt text](https://github.com/Andresmacons/ChemConf-Analysis/blob/main/CCA_logo.svg)
-# ChemConf-Analysis
+# ![alt text](https://github.com/Andresmacons/ChemConf-Analysis/blob/main/CCA_logo.svg)
 Combined Python/Linux scritp for conformational analysis of a xyz file containing multiple structures, based on RMSD and additional geometrical constrains.
 
 Available for Jupyter Notebooks.
