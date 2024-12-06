@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/Andresmacons/ChemConf-Analysis/blob/main/image.png)
 # ChemConf-Analysis
 Combined Python/Linux scritp for conformational analysis of a xyz file containing multiple structures, based on RMSD and additional geometrical constrains.
 
