@@ -23,3 +23,8 @@ Additionally, please include the corresponding references for the following prog
 - Chemcoord: [paper](https://doi.org/10.1002/jcc.27029) and [documentation](https://chemcoord.readthedocs.io/en/v2.1.2/)
 - Pandas: [documentation](https://pandas.pydata.org/docs/) and Zenodo repository [link](https://doi.org/10.5281/zenodo.13819579)
 - Numpy: [paper](https://doi.org/10.1038/s41586-020-2649-2) and [documentation](https://numpy.org/)
+
+## Related scientific works
+Soon references are going to be added...
+
+
