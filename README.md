@@ -26,6 +26,6 @@ Additionally, please include the corresponding references for the following prog
 - Numpy: [paper](https://doi.org/10.1038/s41586-020-2649-2) and [documentation](https://numpy.org/)
 
 ## Related scientific works
-Rreferences and examples are going to be added soon...
+References and examples will be added soon...
 
 
