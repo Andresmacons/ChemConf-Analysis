@@ -6,7 +6,6 @@ authors:
     orcid: https://orcid.org/0000-0001-8948-1258
 title: "ChemConf-Analysis"
 version: 1.0.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.14266368
+doi: 10.5281/zenodo.14266368
 date-released: 2024-12-08
+url: https://github.com/Andresmacons/ChemConf-Analysis
