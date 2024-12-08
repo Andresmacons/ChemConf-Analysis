@@ -18,7 +18,7 @@ Available for Jupyter Notebooks.
 ChemConf-Analysis is freely available under an [MIT](https://choosealicense.com/licenses/mit/) license
 
 ## References
-If you use any ChemConf-Analysis, please include this citation:
+If you use any ChemConf-Analysis, please include this citation: Álvarez-Constantino, A. M. ChemConf-Analysis (Version 1.0.0) [Computer software]
 
 Additionally, please include the corresponding references for the following programs:
 - Chemcoord: [paper](https://doi.org/10.1002/jcc.27029) and [documentation](https://chemcoord.readthedocs.io/en/v2.1.2/)
