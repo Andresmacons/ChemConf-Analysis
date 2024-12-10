@@ -1,10 +1,10 @@
 # ![alt text](https://github.com/Andresmacons/ChemConf-Analysis/blob/main/logos/CCA_logo.svg) 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14266368.svg)](https://doi.org/10.5281/zenodo.14266368)
+
 Combined Python/Linux scritp for conformational analysis of a xyz file containing multiple structures, based on RMSD and additional geometrical constrains.
 
 Available for Jupyter Notebooks.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14266368.svg)](https://doi.org/10.5281/zenodo.14266368)
 
 ## Instructions
 
